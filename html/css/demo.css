@@ -1,0 +1,48 @@
+.wrap{
+	
+	width: 100%;
+	margin-left: 5%;
+	margin-top: 5%;
+
+}
+.row1{
+	margin-top: 2%;
+	margin-left: 8%;
+	margin-right: 8%;
+	padding-bottom: 24%;
+	display: block;
+	width: 80%;
+}
+.row2{
+	/*background-color: blue;*/
+	margin-top: 4%;
+	margin-left: 8%;
+	margin-right: 8%;
+	padding-bottom: 24%;
+	display: block;
+	width: 80%;
+	/*float: left;*/
+}
+.colone{
+	background-color: #FFA600;
+	border: 0%;
+	width: 30%;
+	padding-bottom: 30%;
+	float: left;
+	border-radius: 10%;
+}
+.coltwo{
+	background-color: #FFA600;
+	border: 0%;
+	width: 30%;
+	margin-left: 5%;
+	padding-bottom: 30%;
+	float: left;
+	border-radius: 10%;
+}
+body{
+	font-size: 62.5%;
+}
+*{
+	box-sizing: border-box;
+}
